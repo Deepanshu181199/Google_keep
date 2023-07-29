@@ -14,7 +14,7 @@ dist/
 *.iml
 
 # Compiled files
-*.js
+# *.js
 *.jsx
 *.json
 *.css
