@@ -1,0 +1,57 @@
+ .note_1{
+    
+    margin: 0;
+}
+/* .notes {
+    
+    border : 2px solid rgb(0, 238, 255);
+}  */
+
+.note{
+    border : 2px solid red;
+    padding: 10px;
+    margin: 17px 29px;
+    width: 80%;
+    height: 150px;
+    box-shadow: 5px 5px 10px 2px grey;
+    border-radius: 8px;
+    position :relative;
+
+}
+
+.note h1{
+    color: black;
+    font-size: 17px;
+    font-weight: 600;
+    padding: 2px;
+    margin: 0;
+}
+
+.note p{
+    padding: 8px;
+    margin: 6px;
+    color: black;
+}
+
+.btn1{
+    position: absolute;
+    right: 10px; 
+    bottom: 10px; 
+    width: 40px;
+    height: 40px; 
+    border-radius: 50%; 
+    border: none; 
+    background-color: white; 
+    color: black;
+    font-size: 24px; 
+    /* display: flex; 
+    justify-content: center; 
+    align-items: center; */
+    box-shadow: 5px 5px 15px 2px grey ;
+    /* transform: translate(-50%, 50%); */
+}
+
+.btn1:hover{
+    background-color: orange;
+    color: white;
+}

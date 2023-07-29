@@ -15,10 +15,10 @@ dist/
 
 # Compiled files
 # *.js
-*.jsx
+# *.jsx
 *.json
-*.css
-*.map
+# # *.css
+# *.map
 
 # Dependency lock files
 package-lock.json

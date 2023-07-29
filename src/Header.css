@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,500;0,700;1,200;1,300;1,400;1,500;1,600&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+
+body{
+    
+    font-family: 'Poppins', sans-serif;
+
+}
+
+.header{background: linear-gradient(168deg, #ba5858, #5048483b);
+    display: flex;
+    height: 80px;
+}
+
+.image{
+    padding: 5px;
+    margin-left: 6px;
+    margin-top: 7px;
+}
+
+h1{
+    margin: 5px;
+    padding: 10px;
+    color: white;
+    font-size: 30px;
+}
